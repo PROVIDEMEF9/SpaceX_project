@@ -1,7 +1,7 @@
 # SpaceX_project
 
-step -1 :- To run the project first you have to install it by making the clone of the project.
-step -2 :- Then run npm install in your ternimal to install all the dependencies.
+step -1 :- To run the project first you have to install it by making the clone of the project.                                                                                     
+step -2 :- Then run npm install in your ternimal to install all the dependencies.                                                                                                    
 step -3 :- Then run this command `$env:NODE_OPTIONS = "--openssl-legacy-provider"` This command  is used in a Windows PowerShell environment to set an environment variable named NODE_OPTIONS. This environment variable is used to pass options to Node.js  when it runs.
  ## To Run the project
 step -4 :- Then run npm start to locally start running the project in the local server using localhost:3000.
